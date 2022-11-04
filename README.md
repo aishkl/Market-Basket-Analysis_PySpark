@@ -1,4 +1,4 @@
-# Market Basket Analysis_PySpark
+# Market Basket Analysis Using PySpark
 
  Market-Basket-Analysis on Instacart Data- The project focuses on using market basket analysis in online retail industry to associate related products based on customer buying behaviour.
 
